@@ -16,7 +16,7 @@ A Colaboração entre os sistemas está no script teste.py, estruturado de acord
 
 A pasta dataset contém o conjunto original e o conjunto rotulado de acordo com as classes de intenção criadas.
 
-A pasta models contém os modelos de classificação (SVM) e vetorização (TFIDF) salvos em .pkl. Já a pasta doc tem arquivos secundário (stopwords e lista de preços).
+A pasta models contém os modelos de classificação (SVM) e vetorização (TFIDF) salvos em .pkl. Já a pasta doc tem arquivos secundários (stopwords e lista de preços).
 
 
 
